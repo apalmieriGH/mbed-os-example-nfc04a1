@@ -2,6 +2,12 @@
     "target_overrides": {
         "NUCLEO_F401RE": {
             "target.extra_labels_add": ["ST25DV"]
+        },
+        "NUCLEO_L476RG": {
+            "target.extra_labels_add": ["ST25DV"]
+        },
+        "NUCLEO_WB55RG": {
+            "target.extra_labels_add": ["ST25DV"]
         }
     }
 }
